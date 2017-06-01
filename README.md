@@ -14,6 +14,8 @@
 
 [Jake Vanderplas - Statistics for Hackers](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
 
+[Chandler Carruth - Understanding Compiler Optimization](https://www.youtube.com/watch?v=FnGCDLhaxKU)
+
 [Timothy Allen - It is Darkest Before Dawn...](https://www.youtube.com/watch?v=lyVHKTGjivo)
 
 [Julie Pagano - It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
@@ -49,9 +51,6 @@
 [Jonathan Blow - Ideas about a new programming language for games](https://www.youtube.com/watch?v=TH9VCN6UkyQ)
 
 [Jonathan Blow - A Programming Language for Games, talk #2](https://www.youtube.com/watch?v=5Nc68IdNKdg)
-
-[Chandler Carruth - Understanding Compiler Optimization](https://www.youtube.com/watch?v=FnGCDLhaxKU)
-
 
 # Rust
 
