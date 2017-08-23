@@ -16,9 +16,12 @@
 
 [Chandler Carruth - Understanding Compiler Optimization](https://www.youtube.com/watch?v=FnGCDLhaxKU)
 
+[Mark Rendle - The Worst Programming Language Ever](https://skillsmatter.com/skillscasts/6088-the-worst-programming-language-ever#about)
+
 [Timothy Allen - It is Darkest Before Dawn...](https://www.youtube.com/watch?v=lyVHKTGjivo)
 
 [Julie Pagano - It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+
 
 # C++
 
@@ -34,7 +37,7 @@
 
 [Mike Acton - Data-Oriented Design and C++](https://www.youtube.com/watch?v=rX0ItVEVjHc)
 
-[CppCon 2015: Bjarne Stroustrup “Writing Good C++14” - YouTube](https://www.youtube.com/watch?v=1OEu9C51K2A)
+[Bjarne Stroustrup - Writing Good C++14](https://www.youtube.com/watch?v=1OEu9C51K2A)
 
 
 # Python
@@ -43,6 +46,7 @@
 
 [Ashwini Oruganti - Dispelling the 'Genius Programmer' myth through code review](https://www.youtube.com/watch?v=RR5XHwQB9XU)
 
+[Jack Diederich - Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0)
 
 # Jai
 
