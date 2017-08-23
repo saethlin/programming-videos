@@ -4,7 +4,7 @@
 
 [Joe Politz - Programming Languages - Lecture 1](https://www.youtube.com/watch?v=3N__tvmZrzc)
 
-[Scott Meyers – The Most Important Design Guideline](https://www.youtube.com/watch?v=5tg1ONG18H8)
+[Scott Meyers - The Most Important Design Guideline](https://www.youtube.com/watch?v=5tg1ONG18H8)
 
 [Bob Martin - SOLID design principles](https://www.youtube.com/watch?v=QHnLmvDxGTY)
 
