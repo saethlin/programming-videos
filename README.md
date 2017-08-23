@@ -58,4 +58,4 @@
 
 # Rust
 
-[The Rust Programming Language - YouTube](https://www.youtube.com/watch?v=d1uraoHM8Gg)
+[Alex Crichton - The Rust Programming Language](https://www.youtube.com/watch?v=d1uraoHM8Gg)
