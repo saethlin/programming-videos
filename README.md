@@ -22,6 +22,8 @@
 
 [Julie Pagano - It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
+[Jonathan Blow - Attempting Deep Work, Surviving Long Projects](https://www.youtube.com/watch?v=d0m0jIzJfiQ)
+
 
 # C++
 
