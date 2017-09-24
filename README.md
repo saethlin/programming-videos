@@ -25,6 +25,8 @@
 [Jonathan Blow - Attempting Deep Work, Surviving Long Projects](https://www.youtube.com/watch?v=d0m0jIzJfiQ)
 
 
+[Greg Wilson - What We Actually Know About Software Development, and Why We Believe It’s True](https://vimeo.com/9270320)
+
 # C++
 
 [Nicholas Ormrod - The strange details of std::string at Facebook](https://www.youtube.com/watch?v=kPR8h4-qZdk)
